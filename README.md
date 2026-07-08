@@ -1,4 +1,3 @@
-[afrah-dar-el-mima.html](https://github.com/user-attachments/files/29778007/afrah-dar-el-mima.html)
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
